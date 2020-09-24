@@ -2,7 +2,7 @@
 
 ### Basics
 1. Python
-2. OOP[!OOP](python-oop.md)
+2. [OOP](python-oop.md)
 
 ### Intermediate
 1. Data analytics
